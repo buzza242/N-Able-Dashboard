@@ -5,4 +5,18 @@
     Edited by; Daan Damhuis, info@daandamhuis.nl
         - Made the create array function some what more "dynamic"
 
+
+-- SETUP --
+
+Requirements:
+You must have an account on N-Central with access to the Customers that you intend to monitor.
+
+1) Copy files to your web server
+2) Edit class/nable.class.php with
+        ip_address  (IP Address of the N-Central server)
+        username    (Username for N-Central)
+        password    (Password for the above account)
+        base_URL    (URl for accessing N-Central)
+        
+
 =================================== */
